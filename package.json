@@ -1,0 +1,20 @@
+{
+  "name": "api-node-postgresql",
+  "version": "1.0.0",
+  "description": "API using Node.js and Postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoguer/api-node-postgresql.git"
+  },
+  "keywords": [],
+  "author": "Jhon Guerrero <jhoguer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhoguer/api-node-postgresql/issues"
+  },
+  "homepage": "https://github.com/jhoguer/api-node-postgresql#readme"
+}
